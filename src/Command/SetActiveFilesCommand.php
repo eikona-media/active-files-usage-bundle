@@ -64,7 +64,6 @@ class SetActiveFilesCommand extends Command
                                 {
                                     try {
                                         if (!empty($colValue[$key] && !str_ends_with($colValue[$key], "{}"))) {
-                                            $output->writeln('table ' . $value .' -> ' . $key );
 
                                             $fileUuid = StringUtil::binToUuid(($colValue[$key]));
                                             $file = FilesModel::findByUuid($fileUuid);
