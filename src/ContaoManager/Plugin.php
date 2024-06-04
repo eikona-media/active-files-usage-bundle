@@ -6,7 +6,7 @@ use Contao\CoreBundle\ContaoCoreBundle;
 use Contao\ManagerPlugin\Bundle\BundlePluginInterface;
 use Contao\ManagerPlugin\Bundle\Config\BundleConfig;
 use Contao\ManagerPlugin\Bundle\Parser\ParserInterface;
-use EikonaMedia\ContaoActiveFilesUsageBundle\ContaoActiveFilesUsageBundle;
+use EikonaMedia\Contao\ActiveFilesUsageBundle;
 
 class Plugin implements BundlePluginInterface
 {
