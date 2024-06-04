@@ -1,5 +1,5 @@
 {
-  "name": "eikonamedia/contao-active-files-usage-bundle",
+  "name": "eikona-media/contao-active-files-usage-bundle",
   "type": "contao-bundle",
   "require": {
     "contao/core-bundle": "^4.0 || ^5.0"
