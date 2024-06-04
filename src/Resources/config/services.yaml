@@ -3,5 +3,5 @@ services:
     autowire: true
     autoconfigure: true
 
-  EikonaMedia\Contao\ActiveFilesUsageBundle\Command\SetActiveFiles:
+  EikonaMedia\Contao\ActiveFilesUsageBundle\Command\SetActiveFilesCommand:
     tags: ['console.command']
