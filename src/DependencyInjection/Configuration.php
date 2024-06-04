@@ -1,6 +1,6 @@
 <?php
 
-namespace EikonaMedia\ContaoActiveFilesUsageBundle\DependencyInjection;
+namespace EikonaMedia\Contao\ActiveFilesUsageBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;

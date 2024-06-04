@@ -6,10 +6,10 @@
   },
   "autoload": {
     "psr-4": {
-      "EikonaMedia\\ContaoActiveFilesUsageBundle\\": "src/"
+      "EikonaMedia\\Contao\\ActiveFilesUsageBundle\\": "src/"
     }
   },
   "extra": {
-    "contao-manager-plugin" : "EikonaMedia\\ContaoActiveFilesUsageBundle\\ContaoManager\\Plugin"
+    "contao-manager-plugin" : "EikonaMedia\\Contao\\ActiveFilesUsageBundle\\ContaoManager\\Plugin"
   }
 }

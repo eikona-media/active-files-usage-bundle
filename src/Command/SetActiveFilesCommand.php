@@ -1,6 +1,6 @@
 <?php
 
-namespace EikonaMedia\ContaoActiveFilesUsageBundle\Command;
+namespace EikonaMedia\Contao\ActiveFilesUsageBundle\Command;
 
 use Contao\Controller;
 use Contao\CoreBundle\Framework\ContaoFramework;

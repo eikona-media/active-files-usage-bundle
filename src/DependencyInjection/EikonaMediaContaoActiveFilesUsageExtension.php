@@ -1,6 +1,6 @@
 <?php
 
-namespace EikonaMedia\ContaoActiveFilesUsageBundle\DependencyInjection;
+namespace EikonaMedia\Contao\ActiveFilesUsageBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Extension\Extension;
